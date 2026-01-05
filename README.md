@@ -7,3 +7,5 @@ The speaker emphasised the importance of project management and system developme
 During the session, I gained a clearer understanding of the Software Development Life Cycle (SDLC) and its different stages. The speaker also explained the differences between agile and waterfall methodologies, using real-life scenarios to make the concepts easier to understand. These examples helped me see how each methodology is applied in real projects depending on requirements and constraints.
 
 Overall, the talk was engaging and informative. It provided valuable insights into the industry and helped me connect what I have learned in my studies with real-world practices. I am grateful for the opportunity to attend this session, as it increased my awareness of the skills needed to succeed in the technology field.
+
+![image alt](https://github.com/aleyasara05/INDUSTRY-TALK-2/blob/b75b67764aa23e6924c6b13670cd2a0eae92b900/industry%20talk%202%20pic.jpg)<br>
